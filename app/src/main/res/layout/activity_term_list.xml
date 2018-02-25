@@ -38,7 +38,7 @@
         android:layout_gravity="bottom|end"
         android:layout_marginBottom="@dimen/grid_space_2x"
         android:layout_marginEnd="@dimen/grid_space_2x"
-        android:src="@drawable/ic_shuffle_24dp"
+        android:src="@drawable/ic_study_24dp"
         app:fabSize="normal" />
 
 </android.support.design.widget.CoordinatorLayout>

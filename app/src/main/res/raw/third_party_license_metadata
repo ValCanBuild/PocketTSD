@@ -1,0 +1,43 @@
+0:46 kotlin-android-extensions-runtime
+47:46 design
+94:46 appcompat-v7
+141:46 recyclerview-v7
+188:46 cardview-v7
+235:46 constraint-layout
+282:47 play-services-oss-licenses
+330:46 core-ktx
+377:46 timber
+424:46 kotlin-stdlib-jre7
+471:46 kotlin-stdlib
+518:47 play-services-basement
+566:46 support-v4
+613:46 support-fragment
+660:46 support-core-utils
+707:46 animated-vector-drawable
+754:46 support-vector-drawable
+801:46 transition
+848:46 support-core-ui
+895:46 support-media-compat
+942:46 support-compat
+989:46 support-annotations
+1036:46 constraint-layout-solver
+1083:1558 RE2
+2642:1732 Protobuf Nano
+4375:1481 darts_clone
+5857:3182 PCRE
+9040:2500 zlib
+11541:11358 CCTZ
+22900:19442 ICU4C
+42343:243 tz database
+42587:1602 JSR 305
+44190:731 UTF
+44922:680 STL
+45603:11358 safeparcel
+56962:11342 flatbuffers
+68305:46 annotations
+68352:46 runtime
+68446:46 common
+68493:46 kotlin-annotation-processing-gradle
+68540:46 kotlin-compiler-embeddable
+68587:46 kotlin-reflect
+68634:46 kotlin-script-runtime

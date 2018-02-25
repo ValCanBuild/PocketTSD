@@ -1,11 +1,14 @@
 <resources>
-    <string name="app_name">UKTSDF</string>
+    <string name="app_name">TSD Preparation</string>
 
     <string name="title_terminology">Terminology</string>
     <string name="title_forms">Forms</string>
     <string name="title_gradings">Gradings</string>
     <string name="title_emblem">The Moo Duk Kwan Emblem</string>
+    <string name="title_oss_licenses">Open source licenses</string>
 
+
+    <string name="menu_licenses">Licenses</string>
 
     <string name="mdk_emblem_description"><![CDATA[<h5>The Laurel Leaves</h5>
 <p>The fourteen laurel leaves on each side, represent the fourteen states of Korea and the advancement of peace.</p>

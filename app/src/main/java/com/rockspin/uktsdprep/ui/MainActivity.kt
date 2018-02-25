@@ -1,10 +1,14 @@
 package com.rockspin.uktsdprep.ui
 
+import android.content.Intent
 import android.os.Bundle
 import android.support.design.widget.BottomNavigationView
 import android.support.design.widget.CoordinatorLayout
 import android.support.v4.app.Fragment
 import android.support.v7.app.AppCompatActivity
+import android.view.Menu
+import android.view.MenuItem
+import com.google.android.gms.oss.licenses.OssLicensesMenuActivity
 import com.rockspin.uktsdprep.R
 import com.rockspin.uktsdprep.afterMeasured
 import com.rockspin.uktsdprep.ui.terminology.TerminologyFragment
@@ -48,6 +52,19 @@ class MainActivity : AppCompatActivity() {
 
             fragmentHolder.layoutParams = layoutParams
         }
+    }
+
+    override fun onCreateOptionsMenu(menu: Menu?): Boolean {
+        menuInflater.inflate(R.menu.main_menu, menu)
+        return true
+    }
+
+    override fun onOptionsItemSelected(item: MenuItem): Boolean {
+        when (item.itemId) {
+            R.id.oss_licences -> startActivity(Intent(this, OssLicensesMenuActivity::class.java))
+        }
+
+        return super.onOptionsItemSelected(item)
     }
 
     private fun selectFragment(fragment: Fragment) {

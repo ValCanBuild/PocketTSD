@@ -16,6 +16,12 @@
 
     </style>
 
+    <style name="AppTheme.Licenses">
+        <item name="windowActionBar">true</item>
+        <item name="windowNoTitle">false</item>
+        <item name="colorAccent">@color/primaryDarkColor</item>
+    </style>
+
     <style name="ToolbarStyle" parent="Widget.AppCompat.Toolbar">
         <item name="android:minHeight">?actionBarSize</item>
         <item name="popupTheme">@style/ThemeOverlay.AppCompat.Light</item>
