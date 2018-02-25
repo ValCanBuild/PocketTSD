@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">UKTSDF</string>
+
+    <string name="title_terminology">Terminology</string>
+    <string name="title_forms">Forms</string>
+    <string name="title_gradings">Gradings</string>
+    <string name="title_emblem">The Moo Duk Kwan Emblem</string>
+
+
+    <string name="mdk_emblem_description"><![CDATA[<h5>The Laurel Leaves</h5>
+<p>The fourteen laurel leaves on each side, represent the fourteen states of Korea and the advancement of peace.</p>
+<h5>The seeds</h5>
+<p>The tree seeds joined to the laurel leaves on each side of the emblem represent the "three thousand Li" (the distance running north to south) of the "Land of Morning Calm" and its success. The six seeds in total indicate the world and represent the continents.</p>
+<h5>The fist</h5>
+<p>The fist represents Tang Soo Do and justice.</p>
+<h5>The characters</h5>
+<p>The Korean character in the centre of the circle means Moo Duk Kwan. The character on the left of the circle means Tang and the character on the right of the circle means Soo.</p>
+<h5>The colour</h5>
+<p>The deep blue colour of the emblem represents the three oceans and the black belts.</p>
+<p>As a whole, the emblem symbolises the spreading of Moo Duk Kwan throughout the fourteen states, i.e., all of Korea, and then across the oceans to the six continents of the world. Moo Duk Kwan, as an international institution, is to achieve the objectives of peace and human advancement, as the emblem symbolises.</p>
+]]></string>
+</resources>

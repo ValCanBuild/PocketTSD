@@ -1,0 +1,739 @@
+[
+  {
+    "groupName": "General Terminology",
+    "terms": [
+      {
+        "phrase": "Tang Soo Do",
+        "meaning": "Name of the art we study"
+      },
+      {
+        "phrase": "Moo Duk Kwan",
+        "meaning": "Name of the style/organisation"
+      },
+      {
+        "phrase": "Soo Bahk Do",
+        "meaning": "Ancient name of the martial art in Korea"
+      },
+      {
+        "phrase": "Kwan Jang Nim",
+        "meaning": "Chief instructor"
+      },
+      {
+        "phrase": "Sa Bom Nim",
+        "meaning": "Qualified instructor from 4th Dan upwards"
+      },
+      {
+        "phrase": "Kyo Sa Nim",
+        "meaning": "Assistant instructor as appointed"
+      },
+      {
+        "phrase": "Ban Jang",
+        "meaning": "Prefect"
+      },
+      {
+        "phrase": "Nim",
+        "meaning": "A term of respect similar to 'sir'"
+      },
+      {
+        "phrase": "Sun Beh",
+        "meaning": "Senior member"
+      },
+      {
+        "phrase": "Hu Beh",
+        "meaning": "Junior member"
+      },
+      {
+        "phrase": "Dan",
+        "meaning": "Degree, holder of midnight blue belt"
+      },
+      {
+        "phrase": "Gup",
+        "meaning": "Grade, holder of colour belt under midnight blue"
+      },
+      {
+        "phrase": "Ko Dan Ja",
+        "meaning": "Senior Dan holder"
+      },
+      {
+        "phrase": "You Dan Ja",
+        "meaning": "Dan holder"
+      },
+      {
+        "phrase": "You Gup Ja",
+        "meaning": "Gup holder"
+      },
+      {
+        "phrase": "Kwan Won",
+        "meaning": "Student member"
+      },
+      {
+        "phrase": "Cho Bo Ja",
+        "meaning": "Beginner"
+      },
+      {
+        "phrase": "Kam Sa Hap Ni Da",
+        "meaning": "Thank you"
+      },
+      {
+        "phrase": "Do Jang",
+        "meaning": "Training Hall"
+      },
+      {
+        "phrase": "Do Balk",
+        "meaning": "Training uniform"
+      },
+      {
+        "phrase": "Dee",
+        "meaning": "Belt"
+      },
+      {
+        "phrase": "Kuk Gi",
+        "meaning": "National flag"
+      },
+      {
+        "phrase": "Kwan Gi",
+        "meaning": "(Organisation) flag"
+      },
+      {
+        "phrase": "Shim Kung",
+        "meaning": "Spiritual Power or control in exercise"
+      },
+      {
+        "phrase": "Neh Kung",
+        "meaning": "Internal power or control in exercise"
+      },
+      {
+        "phrase": "Weh Kung",
+        "meaning": "External power or control in exercise"
+      },
+      {
+        "phrase": "Kee Cho",
+        "meaning": "Basic"
+      },
+      {
+        "phrase": "Hyung",
+        "meaning": "Form"
+      },
+      {
+        "phrase": "Dae Ryun",
+        "meaning": "Sparring"
+      },
+      {
+        "phrase": "Ho Sin Sul",
+        "meaning": "Self-defence"
+      },
+      {
+        "phrase": "Kyok Pa",
+        "meaning": "Breaking techniques"
+      },
+      {
+        "phrase": "Soo Kee",
+        "meaning": "Hand techniques"
+      },
+      {
+        "phrase": "O Rin Jok",
+        "meaning": "Right"
+      },
+      {
+        "phrase": "Wen Jok",
+        "meaning": "Left"
+      }
+    ]
+  },
+  {
+    "groupName": "Basic Stances (Kee Cho Jase)",
+    "terms": [
+      {
+        "phrase": "Joon Bee Jase",
+        "meaning": "Ready stance"
+      },
+      {
+        "phrase": "Chon Gool Jase",
+        "meaning": "Front stance"
+      },
+      {
+        "phrase": "Hu Gul Jase",
+        "meaning": "Back stance"
+      },
+      {
+        "phrase": "Chwe Ha Dan Jase",
+        "meaning": "Low back stance"
+      },
+      {
+        "phrase": "Kee Mahk Jase",
+        "meaning": "Horse stance"
+      },
+      {
+        "phrase": "Sa Goh Rip Jase",
+        "meaning": "Side stance"
+      },
+      {
+        "phrase": "Bal Bul Ri Go Mao Sogi Jase",
+        "meaning": "Duck Foot Stance"
+      }
+    ]
+  },
+  {
+    "groupName": "Commands In Training",
+    "terms": [
+      {
+        "phrase": "Cha Ryut",
+        "meaning": "Attention"
+      },
+      {
+        "phrase": "Kyung Yet",
+        "meaning": "Bow"
+      },
+      {
+        "phrase": "Joon Bee",
+        "meaning": "Ready"
+      },
+      {
+        "phrase": "Shi-Jak",
+        "meaning": "Begin"
+      },
+      {
+        "phrase": "Ku Ryung",
+        "meaning": "Count"
+      },
+      {
+        "phrase": "Ku Ryung Ae Mat Cho So",
+        "meaning": "By the count"
+      },
+      {
+        "phrase": "Ku Ryung Op Shi",
+        "meaning": "Without count"
+      },
+      {
+        "phrase": "Ba-ro",
+        "meaning": "Return"
+      },
+      {
+        "phrase": "Shio",
+        "meaning": "Relax"
+      },
+      {
+        "phrase": "Tora",
+        "meaning": "Turn"
+      },
+      {
+        "phrase": "Dwee Ro Tora",
+        "meaning": "Turn to rear"
+      },
+      {
+        "phrase": "Bal Cha Kee Joon Bee",
+        "meaning": "Ready for kick"
+      },
+      {
+        "phrase": "Ha-na",
+        "meaning": "One"
+      },
+      {
+        "phrase": "Tul",
+        "meaning": "Two"
+      },
+      {
+        "phrase": "Set",
+        "meaning": "Three"
+      },
+      {
+        "phrase": "Net",
+        "meaning": "Four"
+      },
+      {
+        "phrase": "Ta-sot",
+        "meaning": "Five"
+      },
+      {
+        "phrase": "Yo-sot",
+        "meaning": "Six"
+      },
+      {
+        "phrase": "IL-gop",
+        "meaning": "Seven"
+      },
+      {
+        "phrase": "Yo-dol",
+        "meaning": "Eight"
+      },
+      {
+        "phrase": "A-hop",
+        "meaning": "Nine"
+      },
+      {
+        "phrase": "Yol",
+        "meaning": "Ten"
+      },
+      {
+        "phrase": "IL",
+        "meaning": "First"
+      },
+      {
+        "phrase": "Ee",
+        "meaning": "Second"
+      },
+      {
+        "phrase": "Sam",
+        "meaning": "Third"
+      },
+      {
+        "phrase": "Sa",
+        "meaning": "Fourth"
+      },
+      {
+        "phrase": "Oh",
+        "meaning": "Fifth"
+      },
+      {
+        "phrase": "Yuk",
+        "meaning": "Sixth"
+      },
+      {
+        "phrase": "Chil",
+        "meaning": "Seventh"
+      },
+      {
+        "phrase": "Pahl",
+        "meaning": "Eighth"
+      },
+      {
+        "phrase": "Ku",
+        "meaning": "Ninth"
+      },
+      {
+        "phrase": "Ship",
+        "meaning": "Tenth"
+      },
+      {
+        "phrase": "Jok Kee",
+        "meaning": "Foot techniques"
+      },
+      {
+        "phrase": "Mahk Kee",
+        "meaning": "Block"
+      },
+      {
+        "phrase": "Kong Kyuk",
+        "meaning": "Attack"
+      },
+      {
+        "phrase": "Ha Dan",
+        "meaning": "Low section"
+      },
+      {
+        "phrase": "Joong Dan",
+        "meaning": "Middle section"
+      },
+      {
+        "phrase": "Sang Dan",
+        "meaning": "High section"
+      },
+      {
+        "phrase": "Cha Kee",
+        "meaning": "Kick"
+      },
+      {
+        "phrase": "Ki-hap",
+        "meaning": "Shout/yell"
+      },
+      {
+        "phrase": "Shi Sun",
+        "meaning": "Focus of eyes"
+      },
+      {
+        "phrase": "Jung Shim",
+        "meaning": "Balance"
+      },
+      {
+        "phrase": "Kwon Do",
+        "meaning": "Knife fist"
+      },
+      {
+        "phrase": "Joong Kwon",
+        "meaning": "Fore fist"
+      },
+      {
+        "phrase": "Kap Kwon",
+        "meaning": "Back fist"
+      },
+      {
+        "phrase": "IL Ji Kwon",
+        "meaning": "One finger fist"
+      },
+      {
+        "phrase": "Yoo Kwon",
+        "meaning": "Soft fist"
+      },
+      {
+        "phrase": "Jip Kye Shon",
+        "meaning": "Plier hand"
+      },
+      {
+        "phrase": "Soo Do",
+        "meaning": "Knife hand"
+      },
+      {
+        "phrase": "Yuk Soo Do",
+        "meaning": "Ridge hand"
+      },
+      {
+        "phrase": "Kwan Soo",
+        "meaning": "Spear hand"
+      },
+      {
+        "phrase": "IL Ji Kwon Soo",
+        "meaning": "One finger spear hand"
+      },
+      {
+        "phrase": "Ee Ji Kwon Soo",
+        "meaning": "Two finger spear hand"
+      },
+      {
+        "phrase": "Jang Kwon",
+        "meaning": "Heel of hand"
+      },
+      {
+        "phrase": "Son Mok Deung",
+        "meaning": "Upper wrist technique"
+      },
+      {
+        "phrase": "Pal Koop",
+        "meaning": "Elbow"
+      },
+      {
+        "phrase": "Moo Roop",
+        "meaning": "Knee"
+      }
+    ]
+  },
+  {
+    "groupName": "Commands In Starting/Closing Class",
+    "terms": [
+      {
+        "phrase": "Cha Ryut",
+        "meaning": "Attention"
+      },
+      {
+        "phrase": "Kuk Gi Bay Ray",
+        "meaning": "Bow to flag (if displayed)"
+      },
+      {
+        "phrase": "Ba-Ro",
+        "meaning": "Return"
+      },
+      {
+        "phrase": "Chak Sut",
+        "meaning": "Sit"
+      },
+      {
+        "phrase": "Muk Nyum",
+        "meaning": "Meditation"
+      },
+      {
+        "phrase": "Sa Bom Nim Kay Kyung Yet",
+        "meaning": "Bow to instructor"
+      },
+      {
+        "phrase": "Kyo Sa Nim Kay Kyung Yet",
+        "meaning": "Bow to assistant instructor"
+      },
+      {
+        "phrase": "Sun Beh Nim Kay Kyung Yet",
+        "meaning": "Bow to senior member"
+      },
+      {
+        "phrase": "Ban Jang Nim Kay Kyung Yet",
+        "meaning": "Bow to prefect"
+      }
+    ]
+  },
+  {
+    "groupName": "Basic Hand Movements",
+    "terms": [
+      {
+        "phrase": "Hu Gul",
+        "meaning": "The prefix signifies that the block following is to be executed in back stance."
+      },
+      {
+        "phrase": "Ha Dan Mahk Kee",
+        "meaning": "Low Block"
+      },
+      {
+        "phrase": "Sang Dan Mahk Kee",
+        "meaning": "High Block"
+      },
+      {
+        "phrase": "Ahn Ye Seo Bahk Euro Mahk Kee",
+        "meaning": "Inside to outside block"
+      },
+      {
+        "phrase": "Bahk Ye Seo Ahn Euro Mahk Kee",
+        "meaning": "Outside to inside block"
+      },
+      {
+        "phrase": "Tro Ahn Ye Seo Bahk Euro Mahk Kee",
+        "meaning": "Reverse inside to outside block"
+      },
+      {
+        "phrase": "Tro Bahk Ye Seo Ahn Euro Mahk Kee",
+        "meaning": "Reverse outside to inside block"
+      },
+      {
+        "phrase": "Sang Soo Joong Dan Mahk Kee",
+        "meaning": "Two fist middle block"
+      },
+      {
+        "phrase": "Sang Soo Ha Dan Mahk Kee",
+        "meaning": "Two fist(X) low block"
+      },
+      {
+        "phrase": "Sang Soo Sang Dan Mahk Kee",
+        "meaning": "Two fist(X) high block"
+      },
+      {
+        "phrase": "Soo Do Ha Dan Mahk Kee",
+        "meaning": "Low section knife hand block"
+      },
+      {
+        "phrase": "Soo Do Sang Dan Mahk Kee",
+        "meaning": "High section knife hand block"
+      },
+      {
+        "phrase": "Soo Do Joong Dan Mahk Kee",
+        "meaning": "Middle section knife hand block"
+      }
+    ]
+  },
+  {
+    "groupName": "Attacks",
+    "terms": [
+      {
+        "phrase": "Joong Dan Kong Kyuk",
+        "meaning": "Middle punch front stance"
+      },
+      {
+        "phrase": "Sang Dan Kong Kyuk",
+        "meaning": "High punch front stance"
+      },
+      {
+        "phrase": "Hoeng Jin Kong Kyuk",
+        "meaning": "Side punch(side) horse stance"
+      },
+      {
+        "phrase": "Yuk Jin Kong Kyuk",
+        "meaning": "Reverse punch, back stance"
+      },
+      {
+        "phrase": "Kwan Soo Kong Kyuk",
+        "meaning": "Spear hand attack, front stance"
+      },
+      {
+        "phrase": "Pal Koop Kong Kyuk",
+        "meaning": "Elbow attack, front stance"
+      }
+    ]
+  },
+  {
+    "groupName": "Basic Leg Movements",
+    "terms": [
+      {
+        "phrase": "Ap Cha Kee",
+        "meaning": "Front kick"
+      },
+      {
+        "phrase": "Ap Podo Cha Kee",
+        "meaning": "Front snap kick"
+      },
+      {
+        "phrase": "Ap Mee Ro Cha Kee",
+        "meaning": "Front pushing kick"
+      },
+      {
+        "phrase": "Yup Cha Kee",
+        "meaning": "Side kick"
+      },
+      {
+        "phrase": "Yup Podo Cha Kee",
+        "meaning": "Side snap kick"
+      },
+      {
+        "phrase": "Dull Ryo Cha Kee",
+        "meaning": "Round-house kick"
+      },
+      {
+        "phrase": "Dwee Cha Kee",
+        "meaning": "Back kick"
+      },
+      {
+        "phrase": "Dwee Dull Ryo Cha Kee",
+        "meaning": "Spinning Back kick"
+      },
+      {
+        "phrase": "Dwee Dull Ryo Chit-Go Cha Kee",
+        "meaning": "Back Spinning Chop Kick"
+      },
+      {
+        "phrase": "Ahn Ye Seo Bahk Euro Cha Kee",
+        "meaning": "Circular inside to outside kick"
+      },
+      {
+        "phrase": "Bahk Ye Seo Ahn Euro Cha Kee",
+        "meaning": "Circular outside to inside kick"
+      },
+      {
+        "phrase": "Bahk Ye Seo Ahn Euro Ma-Go Cha Kee",
+        "meaning": "Circular outside to inside block kick"
+      },
+      {
+        "phrase": "Yup Hu Ri Kee",
+        "meaning": "Side hook kick"
+      },
+      {
+        "phrase": "Chit Bal Kee",
+        "meaning": "Stamping kick"
+      },
+      {
+        "phrase": "Bahl Yup Chit Pal Kee",
+        "meaning": "Side Stamping Kick"
+      },
+      {
+        "phrase": "Moo Roop Cha Kee",
+        "meaning": "Knee kick"
+      },
+      {
+        "phrase": "Moo Roop Dull Ryo Cha Kee",
+        "meaning": "Knee turning round house kick"
+      },
+      {
+        "phrase": "Peet Cha Kee",
+        "meaning": "Diagonal inside to outside snap kick"
+      },
+      {
+        "phrase": "E Dan",
+        "meaning": "Jumping (all jumping kicks start with this term)"
+      }
+    ]
+  },
+  {
+    "groupName": "Sparring (Deh Ryun)",
+    "terms": [
+      {
+        "phrase": "Sam Soo Shik Dae Ryun",
+        "meaning": "Three step sparring"
+      },
+      {
+        "phrase": "IL Soo Shik Dae Ryun",
+        "meaning": "One step sparring"
+      },
+      {
+        "phrase": "Chwa Dae Ryun",
+        "meaning": "Sitting sparring"
+      },
+      {
+        "phrase": "Dae Ryun Joon Bee",
+        "meaning": "Ready for sparring"
+      },
+      {
+        "phrase": "Ja Yoo Dae Ryun",
+        "meaning": "Free sparring"
+      },
+      {
+        "phrase": "Da Soo Dae Ryun",
+        "meaning": "Sparring against two or more"
+      }
+    ]
+  },
+  {
+    "groupName": "Anatomy",
+    "terms": [
+      {
+        "phrase": "Pal",
+        "meaning": "Arm"
+      },
+      {
+        "phrase": "Bahl",
+        "meaning": "Foot"
+      },
+      {
+        "phrase": "Chu Mok",
+        "meaning": "Fist"
+      },
+      {
+        "phrase": "Mok",
+        "meaning": "Neck"
+      },
+      {
+        "phrase": "Eema",
+        "meaning": "Forehead"
+      },
+      {
+        "phrase": "Dan Jun",
+        "meaning": "Abdomen"
+      },
+      {
+        "phrase": "In Joong",
+        "meaning": "Between mouth / nose"
+      },
+      {
+        "phrase": "Bal Deung",
+        "meaning": "Instep"
+      },
+      {
+        "phrase": "Bal Yup Koom Chi",
+        "meaning": "Side heel"
+      },
+      {
+        "phrase": "Ban Jul Kwan Soo",
+        "meaning": "Fore knuckle hand"
+      },
+      {
+        "phrase": "Bal Ahp Buri Yup",
+        "meaning": "Front outer side of foot"
+      },
+      {
+        "phrase": "Bal Dwee Koom Chi Yup Ba Dak",
+        "meaning": "Side of heel under the foot"
+      },
+      {
+        "phrase": "Hur Ri",
+        "meaning": "Waist"
+      },
+      {
+        "phrase": "Ta Ri",
+        "meaning": "Leg"
+      },
+      {
+        "phrase": "Soo",
+        "meaning": "Hand"
+      },
+      {
+        "phrase": "Tuck",
+        "meaning": "Chin"
+      },
+      {
+        "phrase": "Ko Whan",
+        "meaning": "Groin"
+      },
+      {
+        "phrase": "Myung Chi",
+        "meaning": "Solar plexus"
+      },
+      {
+        "phrase": "Bal Ba Dak Mit",
+        "meaning": "Palm foot"
+      },
+      {
+        "phrase": "Bal Dwee Koom Chi",
+        "meaning": "Heel"
+      },
+      {
+        "phrase": "Pal Mok",
+        "meaning": "Wrist"
+      },
+      {
+        "phrase": "Pal Koop",
+        "meaning": "Elbow"
+      }
+    ]
+  }
+]
