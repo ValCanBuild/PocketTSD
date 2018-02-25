@@ -1,5 +1,6 @@
 package com.rockspin.uktsdprep.ui.terminology
 
+import android.content.Intent
 import android.os.Bundle
 import android.support.v4.app.Fragment
 import android.view.LayoutInflater
@@ -31,11 +32,21 @@ class TerminologyFragment: Fragment() {
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
-        val entries = dataRepository.termGroups.map { TerminologyEntry(it.groupName) }
+        val manualEntries = listOf(TerminologyEntry(getString(R.string.title_emblem)))
+        val termEntriesFromGroups = dataRepository.termGroups.map { TerminologyEntry(it.groupName) }
 
-        val adapter = TerminologyAdapter(LayoutInflater.from(context), entries) {
-            val intent = TermListActivity.createIntent(context!!, dataRepository.termGroups[it])
-            context!!.startActivity(intent)
+        val allEntries = manualEntries + termEntriesFromGroups
+        val adapter = TerminologyAdapter(LayoutInflater.from(context), allEntries) { pos ->
+            val isManualEntry = pos < manualEntries.size
+            if (isManualEntry) {
+                when (pos) {
+                    0 -> startActivity(Intent(context, EmblemActivity::class.java))
+                }
+            } else {
+                val groupTermPos = pos - manualEntries.size
+                val intent = TermListActivity.createIntent(context!!, dataRepository.termGroups[groupTermPos])
+                startActivity(intent)
+            }
         }
 
         termGroupRecyclerView.adapter = adapter

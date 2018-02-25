@@ -21,16 +21,35 @@
 
     </android.support.design.widget.AppBarLayout>
 
-    <com.rockspin.uktsdprep.ui.customview.HtmlScrollableTextView
-        android:drawableTop="@drawable/ic_mdk_logo"
-        android:drawablePadding="@dimen/grid_space_2x"
-        android:paddingStart="@dimen/activity_horizontal_margin"
-        android:paddingEnd="@dimen/activity_horizontal_margin"
-        android:scrollbars="vertical"
+    <ScrollView
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="@dimen/grid_space_2x"
-        android:text="@string/mdk_emblem_description"
-        />
+        android:layout_height="match_parent"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingStart="@dimen/activity_horizontal_margin"
+            android:paddingEnd="@dimen/activity_horizontal_margin"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:paddingTop="@dimen/grid_space_2x"
+                android:src="@drawable/ic_mdk_logo" />
+
+            <com.rockspin.uktsdprep.ui.customview.HtmlTextView
+                android:scrollbars="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/grid_space_2x"
+                android:text="@string/mdk_emblem_description"
+                />
+
+        </LinearLayout>
+
+    </ScrollView>
 
 </LinearLayout>
