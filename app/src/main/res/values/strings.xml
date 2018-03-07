@@ -1,6 +1,4 @@
 <resources>
-    <string name="app_name">Pocket TSD</string>
-
     <string name="title_terminology">Terminology</string>
     <string name="title_forms">Forms</string>
     <string name="title_gradings">Gradings</string>
