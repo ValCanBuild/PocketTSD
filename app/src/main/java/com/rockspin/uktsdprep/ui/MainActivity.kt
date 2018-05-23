@@ -41,6 +41,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        // Bla bla test
+
         setSupportActionBar(toolbar)
         selectFragment(terminologyFragment)
 
