@@ -1,10 +1,10 @@
 package com.rockspin.uktsdprep.ui.terminology
 
-import android.support.v7.widget.RecyclerView
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
+import androidx.recyclerview.widget.RecyclerView
 import com.rockspin.uktsdprep.R
 import com.rockspin.uktsdprep.data.model.Term
 import kotlinx.android.synthetic.main.item_term.view.*

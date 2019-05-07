@@ -2,8 +2,8 @@ package com.rockspin.uktsdprep.ui.terminology
 
 import android.content.Context
 import android.content.Intent
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import com.rockspin.uktsdprep.R
 import com.rockspin.uktsdprep.data.model.TermGroup
 import kotlinx.android.synthetic.main.activity_term_list.*
@@ -34,7 +34,7 @@ class TermListActivity : AppCompatActivity() {
         termListRecyclerView.adapter = adapter
 
         practiseButton.setOnClickListener {
-            val intent = TermPractiseActivity.createIntent(TermPractiseActivity@this, group.terms)
+            val intent = TermPractiseActivity.createIntent(this, group.terms)
             startActivity(intent)
         }
     }

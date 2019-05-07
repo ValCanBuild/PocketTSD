@@ -2,10 +2,10 @@ package com.rockspin.uktsdprep.ui.terminology
 
 import android.content.Intent
 import android.os.Bundle
-import android.support.v4.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.fragment.app.Fragment
 import com.rockspin.uktsdprep.R
 import com.rockspin.uktsdprep.data.repository.DataRepository
 import kotlinx.android.synthetic.main.fragment_terminology.*
@@ -22,7 +22,7 @@ class TerminologyFragment: Fragment() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        dataRepository = DataRepository.getInstance(context!!)
+        dataRepository = DataRepository.getInstance(requireContext())
     }
 
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {
@@ -44,7 +44,7 @@ class TerminologyFragment: Fragment() {
                 }
             } else {
                 val groupTermPos = pos - manualEntries.size
-                val intent = TermListActivity.createIntent(context!!, dataRepository.termGroups[groupTermPos])
+                val intent = TermListActivity.createIntent(requireContext(), dataRepository.termGroups[groupTermPos])
                 startActivity(intent)
             }
         }
@@ -52,7 +52,7 @@ class TerminologyFragment: Fragment() {
         termGroupRecyclerView.adapter = adapter
 
         shuffleButton.setOnClickListener {
-            val intent = TermPractiseActivity.createIntent(context!!, dataRepository.allTerms)
+            val intent = TermPractiseActivity.createIntent(requireContext(), dataRepository.allTerms)
             context!!.startActivity(intent)
         }
     }

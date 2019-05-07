@@ -3,12 +3,12 @@ package com.rockspin.uktsdprep.ui.terminology
 import android.content.Context
 import android.content.Intent
 import android.os.Bundle
-import android.support.design.widget.CoordinatorLayout
-import android.support.design.widget.SwipeDismissBehavior
-import android.support.v7.app.AppCompatActivity
-import android.support.v7.widget.CardView
 import android.view.View
 import android.view.animation.AccelerateDecelerateInterpolator
+import androidx.appcompat.app.AppCompatActivity
+import androidx.cardview.widget.CardView
+import androidx.coordinatorlayout.widget.CoordinatorLayout
+import com.google.android.material.behavior.SwipeDismissBehavior
 import com.rockspin.uktsdprep.R
 import com.rockspin.uktsdprep.data.model.Term
 import com.rockspin.uktsdprep.scale

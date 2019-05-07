@@ -1,7 +1,7 @@
 package com.rockspin.uktsdprep.ui.terminology
 
 import android.os.Bundle
-import android.support.v7.app.AppCompatActivity
+import androidx.appcompat.app.AppCompatActivity
 import com.rockspin.uktsdprep.R
 
 class EmblemActivity : AppCompatActivity() {

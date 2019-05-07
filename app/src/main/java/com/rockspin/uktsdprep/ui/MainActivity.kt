@@ -2,13 +2,13 @@ package com.rockspin.uktsdprep.ui
 
 import android.content.Intent
 import android.os.Bundle
-import android.support.design.widget.BottomNavigationView
-import android.support.design.widget.CoordinatorLayout
-import android.support.v4.app.Fragment
-import android.support.v7.app.AppCompatActivity
 import android.view.Menu
 import android.view.MenuItem
+import androidx.appcompat.app.AppCompatActivity
+import androidx.coordinatorlayout.widget.CoordinatorLayout
+import androidx.fragment.app.Fragment
 import com.google.android.gms.oss.licenses.OssLicensesMenuActivity
+import com.google.android.material.bottomnavigation.BottomNavigationView
 import com.rockspin.uktsdprep.R
 import com.rockspin.uktsdprep.afterMeasured
 import com.rockspin.uktsdprep.ui.terminology.TerminologyFragment
