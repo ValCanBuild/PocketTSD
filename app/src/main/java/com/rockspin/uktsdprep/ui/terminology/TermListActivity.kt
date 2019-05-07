@@ -34,7 +34,7 @@ class TermListActivity : AppCompatActivity() {
         termListRecyclerView.adapter = adapter
 
         practiseButton.setOnClickListener {
-            val intent = TermPractiseActivity.createIntent(this, group.terms)
+            val intent = TermPractiseActivity.createIntent(this, group.terms, canFlipMeaning = group.canFlipMeaning)
             startActivity(intent)
         }
     }
