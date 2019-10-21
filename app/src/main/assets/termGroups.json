@@ -137,6 +137,10 @@
       {
         "phrase": "Wen Jok",
         "meaning": "Left"
+      },
+      {
+        "phrase": "Breathing techniques",
+        "meaning": "Hoheub gisul"
       }
     ]
   },
@@ -733,6 +737,31 @@
       {
         "phrase": "Pal Koop",
         "meaning": "Elbow"
+      }
+    ]
+  },
+  {
+    "groupName": "Belt Colours",
+    "terms": [
+      {
+        "phrase": "White Belt",
+        "meaning": "It is symbolic of purity, novice, hidden potential and represents the Tang Soo Do student as a seed freshly planted in the ground. It represents Winter."
+      },
+      {
+        "phrase": "Yellow/Orange Belt",
+        "meaning": "Is the initial growth of the seed. It represents Winter/Spring."
+      },
+      {
+        "phrase": "Green/Blue Belt",
+        "meaning": "Are the colours of life and vigour. It is symbolic of the flourishing plant and represents the level of rapid development of a student. It represents Spring."
+      },
+      {
+        "phrase": "Red Belt",
+        "meaning": "Is the colour of energy and vitality. It represents the flowering of a strong plant. It represents a students improvement, active participation and advancement. It represents Summer."
+      },
+      {
+        "phrase": "Midnight Blue Belt",
+        "meaning": "Is the colour of the evening sky. Midnight blue symbolises infinity and perfection. It is the quest for perfection that epitomises Tang Soo Do. It represents maturity, passiveness and harvest. A practitioner of Tang Soo Do must never be satisfied or complacent, he/she should continue to strive for the better. It represents Autumn."
       }
     ]
   }
